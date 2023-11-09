@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing register....]]>
+    </line>
+    <line>
+      <![CDATA[Executing register....]]>
+    </line>
+    <line>
+      <![CDATA[Executing register....]]>
+    </line>
+    <line>
+      <![CDATA[Executing register....]]>
+    </line>
+    <line>
+      <![CDATA[Executing register....]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-07T12:28:17 IST" name="Default suite" finished-at="2023-11-07T12:28:24 IST" duration-ms="7161">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T12:28:17 IST" name="Default test" finished-at="2023-11-07T12:28:24 IST" duration-ms="7161">
+      <class name="testNG_Basics.Parallel_Execution">
+        <test-method signature="register()[pri:0, instance:testNG_Basics.Parallel_Execution@35d019a3]" started-at="2023-11-07T12:28:17 IST" name="register" finished-at="2023-11-07T12:28:24 IST" duration-ms="7020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing register....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register()[pri:0, instance:testNG_Basics.Parallel_Execution@35d019a3]" started-at="2023-11-07T12:28:17 IST" name="register" finished-at="2023-11-07T12:28:24 IST" duration-ms="7024" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing register....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register()[pri:0, instance:testNG_Basics.Parallel_Execution@35d019a3]" started-at="2023-11-07T12:28:17 IST" name="register" finished-at="2023-11-07T12:28:24 IST" duration-ms="7020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing register....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register()[pri:0, instance:testNG_Basics.Parallel_Execution@35d019a3]" started-at="2023-11-07T12:28:17 IST" name="register" finished-at="2023-11-07T12:28:24 IST" duration-ms="7019" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing register....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register()[pri:0, instance:testNG_Basics.Parallel_Execution@35d019a3]" started-at="2023-11-07T12:28:17 IST" name="register" finished-at="2023-11-07T12:28:24 IST" duration-ms="7020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Executing register....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- testNG_Basics.Parallel_Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
